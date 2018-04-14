@@ -1,0 +1,11 @@
+{
+    "name": "xmlscript/tpl",
+    "description": "private testing",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xmlscript",
+            "email": "xmlscript@gmail.com"
+        }
+    ]
+}
