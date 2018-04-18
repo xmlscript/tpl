@@ -2,7 +2,6 @@
     "name": "xmlscript/tpl",
     "description": "private testing",
     "license": "MIT",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "xmlscript",
